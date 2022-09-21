@@ -345,6 +345,7 @@ img {
 .modal-form-field input:focus,
 .modal-form-textarea textarea:focus {
    border: 1px solid var(--blue-color);
+   outline: transparent;
 }
 
 .modal-form-label {
